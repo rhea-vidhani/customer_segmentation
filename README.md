@@ -6,8 +6,8 @@ I employ K-Means Clustering and Principal Component Analysis (PCA) to group cust
 
 Dataset Description
 
-CustomerID : Unique identifier for each customer
-Genre	: Gender of the customer 
-Age	: Age of the customer
-Annual Income (k$)	: Customer's annual income in thousands 
-Spending Score (1-100) : Score assigned by the mall based on customer spending behavior
+1. CustomerID : Unique identifier for each customer
+2. Gender	: Gender of the customer
+3. Age	: Age of the customer
+4. Annual Income (k$)	: Customer's annual income in thousands
+5. Spending Score (1-100) : Score assigned by the mall based on customer spending behavior
